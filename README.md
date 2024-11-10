@@ -1,1 +1,1 @@
-# DSA-Lab-01-by-Aneeq-Shams
+# DSA Labs by Aneeq Shams
